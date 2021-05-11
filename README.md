@@ -66,6 +66,13 @@
 ```bash
 # setup
 pipenv install --dev
+
+OR
+
+python -m venv venv
+source venv/bin/activate
+pip install -r requirements.txt
+
 # testing
 # only content
 pipenv run python codestats_box.py test <codestats-user> <stats-type>
