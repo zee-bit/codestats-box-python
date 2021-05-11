@@ -3,7 +3,7 @@
   <h3 align="center">codestats-box-python</h3>
   <p align="center">💻 Update a pinned gist to contain your Code::Stats stats</p>
   <p align="center">
-    <img src="https://github.com/aksh1618/codestats-box-python/workflows/Update%20gist%20with%20Code::Stats%20stats/badge.svg?branch=master" alt="Update gist with Code::Stats stats">
+    <img src="https://github.com/zee-bit/codestats-box-python/workflows/Update%20gist%20with%20Code::Stats%20stats/badge.svg?branch=master" alt="Update gist with Code::Stats stats">
   </p>
 </p>
 
