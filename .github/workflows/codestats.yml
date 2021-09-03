@@ -3,7 +3,7 @@ on:
   push:
     branches: master
   schedule:
-    - cron: "0 */8 * * *"
+    - cron: "0 */7 * * *"
 jobs:
   update-gist:
     runs-on: ubuntu-latest
